@@ -1,5 +1,7 @@
 /* Imports */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Raleway:wght@300;400;500;600;700&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/css/glide.core.min.css");
+@import url("https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/css/glide.theme.min.css");
 
 /* Variables */
 :root {
@@ -368,10 +370,25 @@ header {
   gap: var(--spacings-36);
   margin: var(--spacings-68) auto;
 }
-
+/* 
 .slider__items {
   display: flex;
   gap: var(--spacings-24);
+}
+ */
+
+iconify-icon {
+  color: var(--dark-background);
+  font-size: var(--font-small);
+  font-weight: 700;
+}
+
+.glide__arrow--left {
+  left: 0;
+}
+
+.glide__arrow--right {
+  right: 0;
 }
 
 .slider__title {
