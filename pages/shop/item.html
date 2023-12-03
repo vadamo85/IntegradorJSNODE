@@ -242,5 +242,22 @@
     <!-- FOOTER END -->
 
     <script src="https://cdn.jsdelivr.net/npm/iconify-icon@1.0.8/dist/iconify-icon.min.js"></script>
+    // Aumentar y restar cantidades de los botones de ítem
+    <script>
+      var inputCantidad = document.getElementById('quantity');
+      var botonSumar = document.getElementById('add-product');
+      var botonRestar = document.getElementById('less-product');
+    
+      botonSumar.addEventListener('click', function() {
+        
+      inputCantidad.value = parseInt(inputCantidad.value) + 1;
+      });
+    
+      botonRestar.addEventListener('click', function() {
+        
+      var nuevoValor = parseInt(inputCantidad.value) - 1;
+      inputCantidad.value = nuevoValor >= 0 ? nuevoValor : 0;
+      });
+    </script>
   </body>
 </html>
