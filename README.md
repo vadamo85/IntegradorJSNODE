@@ -2,15 +2,16 @@
 
 ## Comisión nro: 23573
 
-Grupo nro 1.
+Grupos nro 1 y 5.
 
 ### Integrantes:
 
 - Adamo, Valeria Ximena.
 - Ayala, Bárbara.
-- De Maio, Julián Daniel.
-- Vigano, Juan Cruz.
-<!-- - Nuñez, Federico Miguel Antonio. -->
+- Mónica.
+- Fernando.
+- Fulvia.
+- Ezequiel.
 
 El objetivo de este proyecto es contar con un espacio autodidacta y
 auto gestionado que le permita al estudiante consolidar el proceso de
