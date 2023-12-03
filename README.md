@@ -80,9 +80,10 @@ elementos de cada página. Se deben normalizar los estilos y crear un sistema de
 diseño desde FIGMA a CSS para que el proceso de desarrollo sea más
 sencillo, rápido y escalable.
 
-### Tareas por hacer:
+### Mission #4
 
-- Crear HTML y CSS de _contact.html_, _password.html_ y _terms-and-conditions.html_ .
-- **Terminar de actualizar CSS de: _shop.html_ (Optimizar el aside y agregar paginado del catálogo en _shop.html_).**
-- **Comenzar diseño responsive.**
-- Comensar a programar en JavaScript (manejo del DOM).
+1. Migrar nuestro código a un proyecto de NodeJS + Express.
+2. Crear un servidor que devuelva archivos estáticos declarando una
+carpeta 'public'.
+3. Crear la capa de rutas.
+
