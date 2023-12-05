@@ -86,4 +86,4 @@ sencillo, rápido y escalable.
 2. Crear un servidor que devuelva archivos estáticos declarando una
 carpeta 'public'.
 3. Crear la capa de rutas.
-
+4. Crear los controladores para responder a cada una de esas rutas con texto plano.
